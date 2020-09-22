@@ -18,4 +18,6 @@
     <a href="https://www.linkedin.com/in/leogopal/"><img alt="LinkedIn @leogopal" align="center" src="https://img.shields.io/badge/LINKEDIN-gray.svg?colorA=6A788D&colorB=6A788D&style=for-the-badge" /></p> 
 </div>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=leogopal)](https://github.com/leogopal)
+
 [g]: https://github.com/leogopal
