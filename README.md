@@ -1,4 +1,7 @@
-### Hi there 👋 I am Leo Gopal
+### Welcome to Leo Gopal on Github.
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hi+there+%F0%9F%91%8B;I+am+Leo+Gopal.+Read+on+to+get+to+know+me)](https://git.io/typing-svg)
+
 
 - 📫 How to reach me: https://leogopal.com
 - 📝 I write at https://leogopal.blog
