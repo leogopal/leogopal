@@ -15,4 +15,6 @@
 
 [![Leo Gopals's GitHub stats](https://github-readme-stats.vercel.app/api?username=leogopal&show_icons=true&theme=radical)
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=leogopal&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=default&layout=default&font=default)
