@@ -9,9 +9,15 @@
 - - 😄 Pronouns: he/him/them
 - ⚡ Fun fact: former hypnotist/hypnotherapist
 
-![Leo Gopals's GitHub stats](https://github-readme-stats.vercel.app/api?username=leogopal&show_icons=true&theme=radical)
 
-![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=leogopal&cover_image=false&theme=default)
+| Github Stats        | Spotify Now Playing           | 
+| ------------- |:-------------:|
+| ![Leo Gopals's GitHub stats](https://github-readme-stats.vercel.app/api?username=leogopal&show_icons=true&theme=radical)     | ![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=leogopal&cover_image=true&theme=default)
+d |
+
+
+
+
 
 <div align="center">
     <p><a href="https://twitter.com/leogopal/"><img alt="Twitter @leogopal" align="center" src="https://img.shields.io/badge/-@leogopal-gray.svg?colorA=6A788D&colorB=1da1f2&style=for-the-badge" /></a>
