@@ -29,9 +29,7 @@
 <a href="https://2048-game.leogopal.dev/" target="_blank"><img width="510" alt="Screenshot 2021-10-06 at 20 18 25" src="https://user-images.githubusercontent.com/4948323/136260856-cb80fa5b-76d2-4477-a052-f79dd9e38c80.png"></a>
 
 
-![LeoGopal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=leogopal&show_icons=true)
-
-![leogopal](https://github-readme-streak-stats.herokuapp.com/?user=leogopal&)
+![LeoGopal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=leogopal&show_icons=true) ![leogopal](https://github-readme-streak-stats.herokuapp.com/?user=leogopal&)
 
 ![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=leogopal&cover_image=true&theme=default)
 
