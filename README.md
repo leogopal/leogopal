@@ -21,7 +21,7 @@
 ⚡ Fun facts: former hypnotist/hypnotherapist | current published [micropoet](https://instagram.com/leoswrite).
 
 ### [Play 2048  →](https://2048-game.leogopal.dev/)
-<img width="510" alt="Screenshot 2021-10-06 at 20 18 25" src="https://user-images.githubusercontent.com/4948323/136260856-cb80fa5b-76d2-4477-a052-f79dd9e38c80.png">
+<a href="https://2048-game.leogopal.dev/" target="_blank"><img width="510" alt="Screenshot 2021-10-06 at 20 18 25" src="https://user-images.githubusercontent.com/4948323/136260856-cb80fa5b-76d2-4477-a052-f79dd9e38c80.png"></a>
 
 ### 🤝🏻 Connect with Me
 
