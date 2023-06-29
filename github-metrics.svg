@@ -1156,7 +1156,7 @@ This is part of the iterative improvements plan being worked on for the Academy.
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 158k out of 119m users</span>
+                                    <span class="gh">ranked 157k out of 119m users</span>
                                 </div>
                                 <div class="text">Followed by 64 users</div>
                             </div>
@@ -1415,7 +1415,7 @@ This is part of the iterative improvements plan being worked on for the Academy.
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 29 Jun 2023, 21:01:47 (timezone Africa/Johannesburg) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 29 Jun 2023, 22:01:26 (timezone Africa/Johannesburg) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
