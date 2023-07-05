@@ -1261,7 +1261,7 @@ This is part of the iterative improvements plan being worked on for the Academy.
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 259k out of 413m repositories</span>
+                                    <span class="gh">ranked 247k out of 413m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 128 stars</div>
                             </div>
@@ -1528,7 +1528,7 @@ This is part of the iterative improvements plan being worked on for the Academy.
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Jul 2023, 21:01:23 (timezone Africa/Johannesburg) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 5 Jul 2023, 22:01:52 (timezone Africa/Johannesburg) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
