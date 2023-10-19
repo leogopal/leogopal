@@ -1139,7 +1139,7 @@ https://distributed.blog/2019/10/17/episode-12-toptals-taso-du-val/</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 269k out of 51.1m repositories</span>
+                                    <span class="gh">ranked 269k out of 45.7m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 128 stars</div>
                             </div>
@@ -1393,7 +1393,7 @@ https://distributed.blog/2019/10/17/episode-12-toptals-taso-du-val/</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 19 Oct 2023, 03:41:26 (timezone Africa/Johannesburg) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 19 Oct 2023, 04:15:10 (timezone Africa/Johannesburg) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
