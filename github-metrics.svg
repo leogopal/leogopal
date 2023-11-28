@@ -1122,7 +1122,7 @@ https://docs.google.com/document/d/1Ii6SMp7Vc9HjOLJAj3PNDtDYlNsJexB1zl07VlIHmCE/
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 273k out of 50.7m repositories</span>
+                                    <span class="gh">ranked 273k out of 47.5m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 128 stars</div>
                             </div>
@@ -1376,7 +1376,7 @@ https://docs.google.com/document/d/1Ii6SMp7Vc9HjOLJAj3PNDtDYlNsJexB1zl07VlIHmCE/
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 28 Nov 2023, 09:01:34 (timezone Africa/Johannesburg) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 28 Nov 2023, 10:01:28 (timezone Africa/Johannesburg) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
