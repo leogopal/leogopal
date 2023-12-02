@@ -868,7 +868,7 @@ Most Engagement (categories: comments, estimates)</div>
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 67.3k out of 110m users</span>
+                                    <span class="gh">ranked 67.3k out of 118m users</span>
                                 </div>
                                 <div class="text">Published 166 public repositories</div>
                             </div>
@@ -1095,7 +1095,7 @@ Most Engagement (categories: comments, estimates)</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 162k out of 110m users</span>
+                                    <span class="gh">ranked 162k out of 118m users</span>
                                 </div>
                                 <div class="text">Followed by 67 users</div>
                             </div>
@@ -1133,7 +1133,7 @@ Most Engagement (categories: comments, estimates)</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 274k out of 56.3m repositories</span>
+                                    <span class="gh">ranked 274k out of 62.1m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 128 stars</div>
                             </div>
@@ -1387,7 +1387,7 @@ Most Engagement (categories: comments, estimates)</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 2 Dec 2023, 20:01:26 (timezone Africa/Johannesburg) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 2 Dec 2023, 21:01:28 (timezone Africa/Johannesburg) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
