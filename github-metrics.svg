@@ -1133,7 +1133,7 @@ Most Engagement (categories: comments, estimates)</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 262k out of 59.5m repositories</span>
+                                    <span class="gh">ranked 274k out of 51.8m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 128 stars</div>
                             </div>
@@ -1387,7 +1387,7 @@ Most Engagement (categories: comments, estimates)</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Dec 2023, 02:02:15 (timezone Africa/Johannesburg) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 3 Dec 2023, 03:27:11 (timezone Africa/Johannesburg) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
