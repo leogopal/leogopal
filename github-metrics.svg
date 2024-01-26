@@ -868,7 +868,7 @@ I write code and poetry, sometimes they are the same thing</div>
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 61.2k out of 130m users</span>
+                                    <span class="gh">ranked 61.3k out of 130m users</span>
                                 </div>
                                 <div class="text">Published 177 public repositories</div>
                             </div>
@@ -947,7 +947,7 @@ I write code and poetry, sometimes they are the same thing</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="1.8672142368240703 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="1.952087611225192 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -1200,7 +1200,7 @@ I write code and poetry, sometimes they are the same thing</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 280k out of 47.6m repositories</span>
+                                    <span class="gh">ranked 280k out of 52.6m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 128 stars</div>
                             </div>
@@ -1246,7 +1246,7 @@ I write code and poetry, sometimes they are the same thing</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 924k out of 47.6m repositories</span>
+                                    <span class="gh">ranked 924k out of 52.6m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 12 times</div>
                             </div>
@@ -1500,7 +1500,7 @@ I write code and poetry, sometimes they are the same thing</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 Jan 2024, 15:01:31 (timezone Africa/Johannesburg) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 26 Jan 2024, 16:01:26 (timezone Africa/Johannesburg) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
