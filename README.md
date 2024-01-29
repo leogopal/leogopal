@@ -10,11 +10,7 @@
 
 📝 I write at code and poetry.
 
-🔭 I’m currently working at [Codeable](https://codeable.io/?ref=LWU21) as a Happiness Engineer
-
-<a href="https://codeable.io/?ref=LWU21">
-  <img src='https://api.referoo.co/creatives/21/asset.png' />
-</a>
+🔭 I’m former Developer Community Advocate and Happiness Engineer at [Codeable](https://codeable.io/?ref=LWU21).
 
 👯 I’m looking to collaborate on anything WordPress [WordPress.org Profile](https://profiles.wordpress.org/leogopal) or Laravel Related
 
