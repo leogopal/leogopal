@@ -1135,7 +1135,7 @@ https://github.com/orgs/WordPress/projects/64/views/8
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 280k out of 63m repositories</span>
+                                    <span class="gh">ranked 280k out of 77.2m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 128 stars</div>
                             </div>
@@ -1389,7 +1389,7 @@ https://github.com/orgs/WordPress/projects/64/views/8
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 31 Jan 2024, 19:01:32 (timezone Africa/Johannesburg) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 31 Jan 2024, 20:01:29 (timezone Africa/Johannesburg) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
