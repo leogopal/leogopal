@@ -1202,7 +1202,7 @@ https://github.com/orgs/WordPress/projects/64/views/8
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 280k out of 76.4m repositories</span>
+                                    <span class="gh">ranked 280k out of 72m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 128 stars</div>
                             </div>
@@ -1248,7 +1248,7 @@ https://github.com/orgs/WordPress/projects/64/views/8
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 925k out of 76.4m repositories</span>
+                                    <span class="gh">ranked 925k out of 72m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 12 times</div>
                             </div>
@@ -1502,7 +1502,7 @@ https://github.com/orgs/WordPress/projects/64/views/8
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 2 Feb 2024, 00:01:18 (timezone Africa/Johannesburg) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 2 Feb 2024, 01:01:28 (timezone Africa/Johannesburg) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
