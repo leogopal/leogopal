@@ -865,7 +865,7 @@ I write code and poetry, sometimes they are the same thing.</div>
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 62.2k out of 141m users</span>
+                                    <span class="gh">ranked 62.3k out of 141m users</span>
                                 </div>
                                 <div class="text">Published 183 public repositories</div>
                             </div>
@@ -1130,7 +1130,7 @@ I write code and poetry, sometimes they are the same thing.</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 301k out of 211m repositories</span>
+                                    <span class="gh">ranked 301k out of 209m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 128 stars</div>
                             </div>
@@ -1384,7 +1384,7 @@ I write code and poetry, sometimes they are the same thing.</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 7 Aug 2024, 12:01:19 (timezone Africa/Johannesburg) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 7 Aug 2024, 13:01:22 (timezone Africa/Johannesburg) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
