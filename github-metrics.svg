@@ -3799,7 +3799,7 @@ Co-authored-by: Tomas Jankauskas &lt;80118053+Tomas-Jankauskas@users.noreply.git
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 63.1k out of 143m users</span>
+                                    <span class="gh">ranked 63.1k out of 144m users</span>
                                 </div>
                                 <div class="text">Published 183 public repositories</div>
                             </div>
@@ -4093,7 +4093,7 @@ Co-authored-by: Tomas Jankauskas &lt;80118053+Tomas-Jankauskas@users.noreply.git
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 151k out of 143m users</span>
+                                    <span class="gh">ranked 151k out of 144m users</span>
                                 </div>
                                 <div class="text">Followed by 81 users</div>
                             </div>
@@ -4131,7 +4131,7 @@ Co-authored-by: Tomas Jankauskas &lt;80118053+Tomas-Jankauskas@users.noreply.git
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 305k out of 215m repositories</span>
+                                    <span class="gh">ranked 305k out of 207m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 128 stars</div>
                             </div>
@@ -4177,7 +4177,7 @@ Co-authored-by: Tomas Jankauskas &lt;80118053+Tomas-Jankauskas@users.noreply.git
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 972k out of 215m repositories</span>
+                                    <span class="gh">ranked 972k out of 207m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 12 times</div>
                             </div>
@@ -4431,7 +4431,7 @@ Co-authored-by: Tomas Jankauskas &lt;80118053+Tomas-Jankauskas@users.noreply.git
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 15 Sept 2024, 05:14:42 (timezone Africa/Johannesburg) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 15 Sept 2024, 06:09:10 (timezone Africa/Johannesburg) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
