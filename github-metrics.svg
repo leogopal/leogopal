@@ -885,7 +885,7 @@ How about a few minutes after tomorrows morning meetings? (I will continue on on
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 63.3k out of 144m users</span>
+                                    <span class="gh">ranked 63.4k out of 145m users</span>
                                 </div>
                                 <div class="text">Published 183 public repositories</div>
                             </div>
@@ -932,7 +932,7 @@ How about a few minutes after tomorrows morning meetings? (I will continue on on
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="32.782340862423005 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="32.86721423682407 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -1112,7 +1112,7 @@ How about a few minutes after tomorrows morning meetings? (I will continue on on
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 151k out of 144m users</span>
+                                    <span class="gh">ranked 151k out of 145m users</span>
                                 </div>
                                 <div class="text">Followed by 81 users</div>
                             </div>
@@ -1150,7 +1150,7 @@ How about a few minutes after tomorrows morning meetings? (I will continue on on
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 305k out of 194m repositories</span>
+                                    <span class="gh">ranked 305k out of 215m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 128 stars</div>
                             </div>
@@ -1404,7 +1404,7 @@ How about a few minutes after tomorrows morning meetings? (I will continue on on
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 Sept 2024, 14:01:20 (timezone Africa/Johannesburg) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 24 Sept 2024, 15:06:31 (timezone Africa/Johannesburg) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
