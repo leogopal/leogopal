@@ -1162,7 +1162,7 @@ I had a chat with @martynasumb around testing and getting the code out, since th
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 306k out of 218m repositories</span>
+                                    <span class="gh">ranked 306k out of 202m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 128 stars</div>
                             </div>
@@ -1416,7 +1416,7 @@ I had a chat with @martynasumb around testing and getting the code out, since th
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Sept 2024, 07:01:13 (timezone Africa/Johannesburg) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 25 Sept 2024, 08:01:27 (timezone Africa/Johannesburg) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
