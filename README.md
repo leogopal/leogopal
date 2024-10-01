@@ -9,7 +9,7 @@
 📫 How to reach me: https://leogopal.com
 📝 I write at code and poetry.
 
-🔭 I’m former Developer Community Advocate and Happiness Engineer at [Codeable](https://codeable.io/?ref=LWU21).
+🔭 I’m former Developer Community Advocate and Happiness Engineer at [Codeable](https://codeable.io/?ref=LWU21) and currently part of the great team of WP Developers at Hostinger.com
 
 👯 I’m looking to collaborate on anything WordPress [WordPress.org Profile](https://profiles.wordpress.org/leogopal) or Laravel Related
 🤔 I’m looking for help with all the things.
@@ -17,12 +17,7 @@
 
 😄 Pronouns: he/him/them
 
-![LeoGopal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=leogopal&show_icons=true) ![leogopal](https://github-readme-streak-stats.herokuapp.com/?user=leogopal&)
-
 ⚡ Fun facts: former hypnotist/hypnotherapist | current published [micropoet](https://instagram.com/leoswrite).
 🧩 Built a web-based 2️⃣0️⃣4️⃣8️⃣ game. | [Play 2048  →](https://2048-game.leogopal.dev/)
-
-<a href="https://2048-game.leogopal.dev/" target="_blank"><img width="510" alt="Screenshot 2021-10-06 at 20 18 25" src="https://user-images.githubusercontent.com/4948323/136260856-cb80fa5b-76d2-4477-a052-f79dd9e38c80.png"></a>
-
 
 
