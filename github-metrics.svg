@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="2376" class="large">
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="2277" class="large">
     <defs>
         <style/>
     </defs>
@@ -719,6 +719,644 @@ I write code and poetry, sometimes they are the same.</div>
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">hostinger/hostinger-easy-onboarding</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">canary-servers</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#405c389</div>
+                                        <div class="message">
+                                            Release 2.0.35 to Canary Servers (#170)
+
+* Add site edit amplitude events. (#127)
+
+* WPCLI check store onboarding complete (#128)
+
+* WPCLI check store onboarding complete
+
+* Herlper file reset
+
+* changed hostinger onboarding store confistional
+
+* Cli new line
+
+* Updated onboardingStatus logic
+
+* json encoded WP CLI output
+
+* change status function
+
+* implement interface for CLICommands
+
+* remove new CLI bootstrap reviewing alternatives
+
+* update instructions
+
+* fix: merge conflicts with staging
+
+* fix: newline at end of CLICommand interface
+
+* refactor: removed unused `'use' statements
+
+All dependencies currently loaded already with Hostinger Tools as the base.
+
+* fix: EasyOnboarding\Cli call
+
+https://github.com/hostinger/hostinger-wordpress-plugin/blob/main/includes/Bootstrap.php#L38
+
+* Feat: Add site edit amplitude events. (#131)
+
+* Update staging (#141)
+
+* Fix: Dependabot Security Issue (#129)
+
+* Feat/add edits amplitude events (#133)
+
+* WPCLI check store onboarding complete
+
+* Feat: Add site edit amplitude events.
+
+* Remove plugin “Checkout Plugins - Stripe for WooCommerce“ from suggested plugins in WooCommerce onboarding (#137)
+
+* feat: remove Stripe payment plugin (Checkout Plugins - Stripe for WooCommerce)
+
+* refactor: version increase
+
+---------
+
+Co-authored-by: martynasumb &lt;125246534+martynasumb@users.noreply.github.com&gt;
+
+* Feat: Redirect to Gutenberg Editor After login (#144)
+
+* Feat: Redirect to Gutenberg Editor After login (#145)
+
+Fixed typo.
+
+* Feat: Added Edit Homepage Admin Bar Link (#150)
+
+* Feat: Added Edit Homepage Admin Bar Link (#151)
+
+* Feat: Update amplitude package which adds impersonated data to amplitude requests (#154)
+
+* Feat: Edit admin bar menu items, update amplitude package. (#161)
+
+* update version to 2.0.35 (#166)
+
+* update version to 2.0.35
+
+* update list for version bump
+
+* Squashed commit of the following:
+
+commit dd6e1f22b0d7165c6bc377ba9864b0a55b756d27
+Author: Leo Gopal &lt;gopala.harripersad@hostinger.com&gt;
+Date:   Thu Oct 17 11:13:48 2024 +0200
+
+    fix: online store fix collapsing.
+
+commit 2859e131959996f6103b290575e0be0d6c02a2e8
+Author: Leo Gopal &lt;gopala.harripersad@hostinger.com&gt;
+Date:   Wed Oct 16 07:52:33 2024 +0200
+
+    feat: collapse website steps if online store is incomplete
+
+* Squashed commit of the following:
+
+commit aec4f20a29f3bedb59215d61676b55e3c59feb39
+Author: Leo Gopal &lt;gopala.harripersad@hostinger.com&gt;
+Date:   Wed Oct 16 12:05:39 2024 +0200
+
+    remove unused import
+
+commit cc8dfcbd3b38fd74df82d8e2a9c92428842317dc
+Author: Leo Gopal &lt;gopala.harripersad@hostinger.com&gt;
+Date:   Wed Oct 16 11:20:18 2024 +0200
+
+    change button and rearrange list style
+
+commit 35d7e24a4c0b53a63b35aa663cd9ce6b883530c3
+Author: Leo Gopal &lt;gopala.harripersad@hostinger.com&gt;
+Date:   Wed Oct 16 10:53:38 2024 +0200
+
+    remove .index
+
+commit df0bef980e4bf5a1c111f76edf8f4f380d07ec58
+Author: Leo Gopal &lt;gopala.harripersad@hostinger.com&gt;
+Date:   Wed Oct 16 10:50:20 2024 +0200
+
+    remove tests
+
+commit 49d5f301265bb876ff7a4f6eb4506fec39d2d099
+Author: Leo Gopal &lt;gopala.harripersad@hostinger.com&gt;
+Date:   Wed Oct 16 10:33:31 2024 +0200
+
+    Revert "chore: removed unnecessary files"
+
+    This reverts commit d7b5db744eff54c17ac601c298d9288cfa7d170f.
+
+commit d7b5db744eff54c17ac601c298d9288cfa7d170f
+Author: Leo Gopal &lt;gopala.harripersad@hostinger.com&gt;
+Date:   Wed Oct 16 10:18:59 2024 +0200
+
+    chore: removed unnecessary files
+
+commit 35f7b4f980c2b0e040acc86f4849d41b0647b71e
+Merge: 93615049f debbfeb65
+Author: Leo Gopal &lt;gopala.harripersad@hostinger.com&gt;
+Date:   Wed Oct 16 09:59:28 2024 +0200
+
+    Merge branch 'staging' into feat/gutenberg-edit-pages-topbar
+
+commit 93615049f6499fb0437c924204b2638d25aad2b4
+Author: Leo Gopal &lt;gopala.harripersad@hostinger.com&gt;
+Date:   Tue Oct 15 14:24:55 2024 +0200
+
+    fix: translations and readme
+
+commit 136ae096855c8e0041546034b21420a38eb73c8f
+Author: Leo Gopal &lt;gopala.harripersad@hostinger.com&gt;
+Date:   Tue Oct 15 14:02:14 2024 +0200
+
+    updated translations and refactor
+
+commit f6d6e96c3bb653b60eeb6175b9cc91fbb3ae38d5
+Author: Leo Gopal &lt;gopala.harripersad@hostinger.com&gt;
+Date:   Tue Oct 15 10:50:21 2024 +0200
+
+    fix: refactoring component PageList
+
+commit 85b924752354a91f64cbec9b3b9d8e89b25a7638
+Author: Leo Gopal &lt;gopala.harripersad@hostinger.com&gt;
+Date:   Tue Oct 15 10:45:11 2024 +0200
+
+    fix: resolve button modification to display text
+
+commit bae5671df8706df87e01bfa794bc4481c6c680d6
+Author: Leo Gopal &lt;gopala.harripersad@hostinger.com&gt;
+Date:   Tue Oct 15 10:43:24 2024 +0200
+
+    chore: conditional for editing button text
+
+    reduces the duplication on button click.
+
+commit ab10965db9bbe43aa9fe1b48e9c98fe5458c2abe
+Author: Leo Gopal &lt;gopala.harripersad@hostinger.com&gt;
+Date:   Tue Oct 15 10:30:45 2024 +0200
+
+    feat: edit the button text
+
+    Edit the button text had issues
+
+commit ae41d90e34daeaf8105fd243df7d26652fe75e1f
+Author: Leo Gopal &lt;gopala.harripersad@hostinger.com&gt;
+Date:   Tue Oct 15 08:29:06 2024 +0200
+
+    chore: make file
+
+commit 378b526da14dd630746982aa775041ddeeef42a5
+Author: Leo Gopal &lt;gopala.harripersad@hostinger.com&gt;
+Date:   Tue Oct 15 08:09:34 2024 +0200
+
+    fix: updates
+
+commit 2bd79df3e8f4a382a41f78372ce519689e6cab21
+Author: Leo Gopal &lt;gopala.harripersad@hostinger.com&gt;
+Date:   Tue Oct 15 07:59:01 2024 +0200
+
+    feat: updates to edit pages panel
+
+commit 58d3adc35efde8f4c8af11a0fc1362244bde14dc
+Author: Leo Gopal &lt;gopala.harripersad@hostinger.com&gt;
+Date:   Tue Oct 15 07:09:50 2024 +0200
+
+    chore: gitignore file
+
+commit 8181ef3610960765bf7be6d76922a7082043bbd3
+Merge: b94574daf 35071b51b
+Author: Leo Gopal &lt;gopala.harripersad@hostinger.com&gt;
+Date:   Tue Oct 15 06:22:08 2024 +0200
+
+    Merge remote-tracking branch 'origin/staging' into feat/gutenberg-edit-pages-topbar
+
+commit b94574daf7486ffe63d388100e65f16abb79deb9
+Author: Leo Gopal &lt;gopala.harripersad@hostinger.com&gt;
+Date:   Mon Oct 14 09:05:13 2024 +0200
+
+    feat: edit pages panel [draft]
+
+commit a94fb455514ec98ff9b38300d800aab080c676a4
+Author: Leo Gopal (Harripersad) &lt;gopala.harripersad@hostinger.com&gt;
+Date:   Wed Oct 2 11:20:37 2024 +0200
+
+    PR refinements
+
+commit 1861ec8400b0584758270ea6e5e5ec8e0824b52a
+Author: Leo Gopal (Harripersad) &lt;gopala.harripersad@hostinger.com&gt;
+Date:   Tue Oct 1 17:38:29 2024 +0200
+                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
+                                                <path fill="#269" d="M36 32c0 2.209-1.791 4-4 4H4c-2.209 0-4-1.791-4-4V4c0-2.209 1.791-4 4-4h28c2.209 0 4 1.791 4 4v28z"/>
+                                                <path fill="#BBDDF5" d="M29.28 6.362c-1.156-.751-2.704-.422-3.458.736L14.936 23.877l-5.029-4.65c-1.014-.938-2.596-.875-3.533.138-.937 1.014-.875 2.596.139 3.533l7.209 6.666c.48.445 1.09.665 1.696.665.673 0 1.534-.282 2.099-1.139.332-.506 12.5-19.27 12.5-19.27.751-1.159.421-2.707-.737-3.458z"/>
+                                            </svg>
+                                            PR: Refinement
+
+commit bccc921a1e3b7e016ea8957b7b6c269d4ae59230
+Author: Leo Gopal (Harripersad) &lt;gopala.harripersad@hostinger.com&gt;
+Date:   Tue Oct 1 13:17:13 2024 +0200
+
+    chore: translation strings part 1
+
+commit cee87f8c7989e9cf6d0cf7515ac909f08f1835c1
+Author: Leo Gopal (Harripersad) &lt;gopala.harripersad@hostinger.com&gt;
+Date:   Tue Oct 1 05:17:39 2024 +0200
+
+    add delete feature
+
+commit bfb2768642595171a5b5d7c918c10abc9d767836
+Author: Leo Gopal (Harripersad) &lt;gopala.harripersad@hostinger.com&gt;
+Date:   Tue Oct 1 03:06:35 2024 +0200
+
+    chore: imports optimised
+
+commit 912a8bd8ce0d58b342c959483347ea003d588d95
+Author: Leo Gopal (Harripersad) &lt;gopala.harripersad@hostinger.com&gt;
+Date:   Tue Oct 1 03:03:57 2024 +0200
+
+    chore: tests
+
+commit 57c67f670e3ae6f442ffeee0aa980f3f723f0ba4
+Author: Leo Gopal (Harripersad) &lt;gopala.harripersad@hostinger.com&gt;
+Date:   Tue Oct 1 02:49:27 2024 +0200
+
+    refactor: code clean up
+
+commit dd870037f31d683cb5c1c79b4f4570bb2cd38a9f
+Author: Leo Gopal (Harripersad) &lt;gopala.harripersad@hostinger.com&gt;
+Date:   Tue Oct 1 02:27:02 2024 +0200
+
+    chore: Refactor
+
+commit 976a1cf7b5c50387734f867a0389429767ba7cd7
+Author: Leo Gopal (Harripersad) &lt;gopala.harripersad@hostinger.com&gt;
+Date:   Tue Oct 1 02:01:24 2024 +0200
+
+    feat: complete feature
+
+commit 23470512fbbd420a7497d97b1f084bd5195f9df0
+Author: Leo Gopal (Harripersad) &lt;gopala.harripersad@hostinger.com&gt;
+Date:   Sat Sep 28 01:50:55 2024 +0200
+
+    feat: Gutenberg Edit Pages Search
+
+* Squashed commit of the following:
+
+commit 45aa4d945619a46accb81c8711d49d5485b1d01e
+Author: Leo Gopal &lt;gopala.harripersad@hostinger.com&gt;
+Date:   Wed Oct 16 09:06:10 2024 +0200
+
+    is woocommerce store ready
+
+* Squashed commit of the following:
+
+commit cf9820a3d28feb5e6286f779c25fe4b20a6b3394
+Author: Leo Gopal &lt;gopala.harripersad@hostinger.com&gt;
+Date:   Thu Oct 17 08:49:11 2024 +0200
+
+    add extra line
+
+commit 7eabc0635c9c2f65d2d91efa255b5b5a0ed5ce99
+Author: Leo Gopal &lt;gopala.harripersad@hostinger.com&gt;
+Date:   Wed Oct 16 08:11:05 2024 +0200
+
+    hide finished setup WC button
+
+* Squashed commit of the following:
+
+commit bc717edc708467a32309957000fb89ba5ce0d32f
+Author: Leo Gopal &lt;gopala.harripersad@hostinger.com&gt;
+Date:   Thu Oct 17 11:46:01 2024 +0200
+
+    Squashed commit of the following:
+
+    commit 1f53dede12d77ed7249dbec099b2d5287acaff47
+    Author: Leo Gopal &lt;gopala.harripersad@hostinger.com&gt;
+    Date:   Thu Oct 17 11:32:42 2024 +0200
+
+        Squashed commit of the following:
+
+        commit cf9820a3d28feb5e6286f779c25fe4b20a6b3394
+        Author: Leo Gopal &lt;gopala.harripersad@hostinger.com&gt;
+        Date:   Thu Oct 17 08:49:11 2024 +0200
+
+            add extra line
+
+        commit 7eabc0635c9c2f65d2d91efa255b5b5a0ed5ce99
+        Author: Leo Gopal &lt;gopala.harripersad@hostinger.com&gt;
+        Date:   Wed Oct 16 08:11:05 2024 +0200
+
+            hide finished setup WC button
+
+    commit 41863c28da6a5dc894595f80e96f4cd035485b47
+    Author: Leo Gopal &lt;gopala.harripersad@hostinger.com&gt;
+    Date:   Thu Oct 17 11:31:45 2024 +0200
+
+        Squashed commit of the following:
+
+        commit 45aa4d945619a46accb81c8711d49d5485b1d01e
+        Author: Leo Gopal &lt;gopala.harripersad@hostinger.com&gt;
+        Date:   Wed Oct 16 09:06:10 2024 +0200
+
+            is woocommerce store ready
+
+    commit 1214b50056980c2562f9a10d41437c6f16527020
+    Author: Leo Gopal &lt;gopala.harripersad@hostinger.com&gt;
+    Date:   Thu Oct 17 11:29:36 2024 +0200
+
+        Squashed commit of the following:
+
+        commit aec4f20a29f3bedb59215d61676b55e3c59feb39
+        Author: Leo Gopal &lt;gopala.harripersad@hostinger.com&gt;
+        Date:   Wed Oct 16 12:05:39 2024 +0200
+
+            remove unused import
+
+        commit cc8dfcbd3b38fd74df82d8e2a9c92428842317dc
+        Author: Leo Gopal &lt;gopala.harripersad@hostinger.com&gt;
+        Date:   Wed Oct 16 11:20:18 2024 +0200
+
+            change button and rearrange list style
+
+        commit 35d7e24a4c0b53a63b35aa663cd9ce6b883530c3
+        Author: Leo Gopal &lt;gopala.harripersad@hostinger.com&gt;
+        Date:   Wed Oct 16 10:53:38 2024 +0200
+
+            remove .index
+
+        commit df0bef980e4bf5a1c111f76edf8f4f380d07ec58
+        Author: Leo Gopal &lt;gopala.harripersad@hostinger.com&gt;
+        Date:   Wed Oct 16 10:50:20 2024 +0200
+
+            remove tests
+
+        commit 49d5f301265bb876ff7a4f6eb4506fec39d2d099
+        Author: Leo Gopal &lt;gopala.harripersad@hostinger.com&gt;
+        Date:   Wed Oct 16 10:33:31 2024 +0200
+
+            Revert "chore: removed unnecessary files"
+
+            This reverts commit d7b5db744eff54c17ac601c298d9288cfa7d170f.
+
+        commit d7b5db744eff54c17ac601c298d9288cfa7d170f
+        Author: Leo Gopal &lt;gopala.harripersad@hostinger.com&gt;
+        Date:   Wed Oct 16 10:18:59 2024 +0200
+
+            chore: removed unnecessary files
+
+        commit 35f7b4f980c2b0e040acc86f4849d41b0647b71e
+        Merge: 93615049f debbfeb65
+        Author: Leo Gopal &lt;gopala.harripersad@hostinger.com&gt;
+        Date:   Wed Oct 16 09:59:28 2024 +0200
+
+            Merge branch 'staging' into feat/gutenberg-edit-pages-topbar
+
+        commit 93615049f6499fb0437c924204b2638d25aad2b4
+        Author: Leo Gopal &lt;gopala.harripersad@hostinger.com&gt;
+        Date:   Tue Oct 15 14:24:55 2024 +0200
+
+            fix: translations and readme
+
+        commit 136ae096855c8e0041546034b21420a38eb73c8f
+        Author: Leo Gopal &lt;gopala.harripersad@hostinger.com&gt;
+        Date:   Tue Oct 15 14:02:14 2024 +0200
+
+            updated translations and refactor
+
+        commit f6d6e96c3bb653b60eeb6175b9cc91fbb3ae38d5
+        Author: Leo Gopal &lt;gopala.harripersad@hostinger.com&gt;
+        Date:   Tue Oct 15 10:50:21 2024 +0200
+
+            fix: refactoring component PageList
+
+        commit 85b924752354a91f64cbec9b3b9d8e89b25a7638
+        Author: Leo Gopal &lt;gopala.harripersad@hostinger.com&gt;
+        Date:   Tue Oct 15 10:45:11 2024 +0200
+
+            fix: resolve button modification to display text
+
+        commit bae5671df8706df87e01bfa794bc4481c6c680d6
+        Author: Leo Gopal &lt;gopala.harripersad@hostinger.com&gt;
+        Date:   Tue Oct 15 10:43:24 2024 +0200
+
+            chore: conditional for editing button text
+
+            reduces the duplication on button click.
+
+        commit ab10965db9bbe43aa9fe1b48e9c98fe5458c2abe
+        Author: Leo Gopal &lt;gopala.harripersad@hostinger.com&gt;
+        Date:   Tue Oct 15 10:30:45 2024 +0200
+
+            feat: edit the button text
+
+            Edit the button text had issues
+
+        commit ae41d90e34daeaf8105fd243df7d26652fe75e1f
+        Author: Leo Gopal &lt;gopala.harripersad@hostinger.com&gt;
+        Date:   Tue Oct 15 08:29:06 2024 +0200
+
+            chore: make file
+
+        commit 378b526da14dd630746982aa775041ddeeef42a5
+        Author: Leo Gopal &lt;gopala.harripersad@hostinger.com&gt;
+        Date:   Tue Oct 15 08:09:34 2024 +0200
+
+            fix: updates
+
+        commit 2bd79df3e8f4a382a41f78372ce519689e6cab21
+        Author: Leo Gopal &lt;gopala.harripersad@hostinger.com&gt;
+        Date:   Tue Oct 15 07:59:01 2024 +0200
+
+            feat: updates to edit pages panel
+
+        commit 58d3adc35efde8f4c8af11a0fc1362244bde14dc
+        Author: Leo Gopal &lt;gopala.harripersad@hostinger.com&gt;
+        Date:   Tue Oct 15 07:09:50 2024 +0200
+
+            chore: gitignore file
+
+        commit 8181ef3610960765bf7be6d76922a7082043bbd3
+        Merge: b94574daf 35071b51b
+        Author: Leo Gopal &lt;gopala.harripersad@hostinger.com&gt;
+        Date:   Tue Oct 15 06:22:08 2024 +0200
+
+            Merge remote-tracking branch 'origin/staging' into feat/gutenberg-edit-pages-topbar
+
+        commit b94574daf7486ffe63d388100e65f16abb79deb9
+        Author: Leo Gopal &lt;gopala.harripersad@hostinger.com&gt;
+        Date:   Mon Oct 14 09:05:13 2024 +0200
+
+            feat: edit pages panel [draft]
+
+        commit a94fb455514ec98ff9b38300d800aab080c676a4
+        Author: Leo Gopal (Harripersad) &lt;gopala.harripersad@hostinger.com&gt;
+        Date:   Wed Oct 2 11:20:37 2024 +0200
+
+            PR refinements
+
+        commit 1861ec8400b0584758270ea6e5e5ec8e0824b52a
+        Author: Leo Gopal (Harripersad) &lt;gopala.harripersad@hostinger.com&gt;
+        Date:   Tue Oct 1 17:38:29 2024 +0200
+                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
+                                                <path fill="#269" d="M36 32c0 2.209-1.791 4-4 4H4c-2.209 0-4-1.791-4-4V4c0-2.209 1.791-4 4-4h28c2.209 0 4 1.791 4 4v28z"/>
+                                                <path fill="#BBDDF5" d="M29.28 6.362c-1.156-.751-2.704-.422-3.458.736L14.936 23.877l-5.029-4.65c-1.014-.938-2.596-.875-3.533.138-.937 1.014-.875 2.596.139 3.533l7.209 6.666c.48.445 1.09.665 1.696.665.673 0 1.534-.282 2.099-1.139.332-.506 12.5-19.27 12.5-19.27.751-1.159.421-2.707-.737-3.458z"/>
+                                            </svg>
+                                            PR: Refinement
+
+        commit bccc921a1e3b7e016ea8957b7b6c269d4ae59230
+        Author: Leo Gopal (Harripersad) &lt;gopala.harripersad@hostinger.com&gt;
+        Date:   Tue Oct 1 13:17:13 2024 +0200
+
+            chore: translation strings part 1
+
+        commit cee87f8c7989e9cf6d0cf7515ac909f08f1835c1
+        Author: Leo Gopal (Harripersad) &lt;gopala.harripersad@hostinger.com&gt;
+        Date:   Tue Oct 1 05:17:39 2024 +0200
+
+            add delete feature
+
+        commit bfb2768642595171a5b5d7c918c10abc9d767836
+        Author: Leo Gopal (Harripersad) &lt;gopala.harripersad@hostinger.com&gt;
+        Date:   Tue Oct 1 03:06:35 2024 +0200
+
+            chore: imports optimised
+
+        commit 912a8bd8ce0d58b342c959483347ea003d588d95
+        Author: Leo Gopal (Harripersad) &lt;gopala.harripersad@hostinger.com&gt;
+        Date:   Tue Oct 1 03:03:57 2024 +0200
+
+            chore: tests
+
+        commit 57c67f670e3ae6f442ffeee0aa980f3f723f0ba4
+        Author: Leo Gopal (Harripersad) &lt;gopala.harripersad@hostinger.com&gt;
+        Date:   Tue Oct 1 02:49:27 2024 +0200
+
+            refactor: code clean up
+
+        commit dd870037f31d683cb5c1c79b4f4570bb2cd38a9f
+        Author: Leo Gopal (Harripersad) &lt;gopala.harripersad@hostinger.com&gt;
+        Date:   Tue Oct 1 02:27:02 2024 +0200
+
+            chore: Refactor
+
+        commit 976a1cf7b5c50387734f867a0389429767ba7cd7
+        Author: Leo Gopal (Harripersad) &lt;gopala.harripersad@hostinger.com&gt;
+        Date:   Tue Oct 1 02:01:24 2024 +0200
+
+            feat: complete feature
+
+        commit 23470512fbbd420a7497d97b1f084bd5195f9df0
+        Author: Leo Gopal (Harripersad) &lt;gopala.harripersad@hostinger.com&gt;
+        Date:   Sat Sep 28 01:50:55 2024 +0200
+
+            feat: Gutenberg Edit Pages Search
+
+    commit 1a14a2c53b7605e96084a96b382b4009e839e5a5
+    Author: Leo Gopal &lt;gopala.harripersad@hostinger.com&gt;
+    Date:   Thu Oct 17 11:29:03 2024 +0200
+
+        Squashed commit of the following:
+
+        commit dd6e1f22b0d7165c6bc377ba9864b0a55b756d27
+        Author: Leo Gopal &lt;gopala.harripersad@hostinger.com&gt;
+        Date:   Thu Oct 17 11:13:48 2024 +0200
+
+            fix: online store fix collapsing.
+
+        commit 2859e131959996f6103b290575e0be0d6c02a2e8
+        Author: Leo Gopal &lt;gopala.harripersad@hostinger.com&gt;
+        Date:   Wed Oct 16 07:52:33 2024 +0200
+
+            feat: collapse website steps if online store is incomplete
+
+    commit 7b63b1e84a1f1be32a0e07c85ecdfcefc7fee5cc
+    Author: Leo Gopal &lt;gopala.harripersad@hostinger.com&gt;
+    Date:   Thu Oct 17 11:24:23 2024 +0200
+
+        update list for version bump
+
+    commit b42d60797483770209540f963cfe8b7ad0bde95b
+    Author: Leo Gopal &lt;gopala.harripersad@hostinger.com&gt;
+    Date:   Thu Oct 17 11:02:16 2024 +0200
+
+        update version to 2.0.35
+
+    commit debbfeb65615ee0c01bf441322a55ed21bf45e85
+    Author: martynasumb &lt;125246534+martynasumb@users.noreply.github.com&gt;
+    Date:   Wed Oct 16 09:25:33 2024 +0300
+
+        Feat: Edit admin bar menu items, update amplitude package. (#161)
+
+commit 510393cae1a5c5395b919b1d98f079915895baf4
+Author: Leo Gopal &lt;gopala.harripersad@hostinger.com&gt;
+Date:   Wed Oct 16 07:33:52 2024 +0200
+
+    fix: remove duplicate
+
+commit a33a3572263896b4b94e4a89d215091b6d0ee3e2
+Author: Leo Gopal &lt;gopala.harripersad@hostinger.com&gt;
+Date:   Tue Oct 15 08:51:05 2024 +0200
+
+    feat: remove final confirmation message
+
+    https://hostingers.atlassian.net/browse/WRDP-1928
+
+* Feat/updated pot file
+
+* Update buildexcludes for gutenberg panel (#167)
+
+* Update buildexcludes for gutenberg panel
+
+* add .gitignore
+
+* fix: new line buildexcludes
+
+* update helper.php file PSR-12 (#168)
+
+* Feat release 2.0.35
+
+---------
+
+Co-authored-by: martynasumb &lt;125246534+martynasumb@users.noreply.github.com&gt;
+Co-authored-by: Daniels Martinovs &lt;146705701+daniels-m-hostinger@users.noreply.github.com&gt;
+                                        </div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Merged
+                                        <span class="issue">#170 Release 2.0.35 to Canary Servers</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div> in <span class="repo">hostinger/hostinger-easy-onboarding</span></div>
+                                    <div>33 files changed <span class="code">++1399 --523</span></div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                                     </svg>
                                     <div class="content">
@@ -765,134 +1403,6 @@ I write code and poetry, sometimes they are the same.</div>
                                     <div class="commit">
                                         <div class="sha">#7da6a6b</div>
                                         <div class="message">Feat release 2.0.35</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 9 commits in
-                                        <span class="repo">hostinger/hostinger-easy-onboarding</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">fix/resolve-canary-conflicts</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#c9d9ec5</div>
-                                        <div class="message">Merge remote-tracking branch 'origin/canary-servers' into fix/resolve-canary-conflicts</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#02aa9af</div>
-                                        <div class="message">Feat: Edit admin bar menu items, update amplitude package. (#162)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a9ca032</div>
-                                        <div class="message">Feat: Update amplitude package which adds impersonated data to amplitude requests (#155)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b5ee6bf</div>
-                                        <div class="message">Feat: Added Edit Homepage Admin Bar Link (#152)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#db86c47</div>
-                                        <div class="message">Feat: Redirect to Gutenberg Editor After login (#148)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9440201</div>
-                                        <div class="message">Fix: Dependabot security issues. (#143)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9501e71</div>
-                                        <div class="message">Canary update (#139)
-
-* Fix: Dependabot Security Issue (#129)
-
-* Feat/add edits amplitude events (#133)
-
-* WPCLI check store onboarding complete
-
-* Feat: Add site edit amplitude events.
-
-* Remove plugin “Checkout Plugins - Stripe for WooCommerce“ from suggested plugins in WooCommerce onboarding (#137)
-
-* feat: remove Stripe payment plugin (Checkout Plugins - Stripe for WooCommerce)
-
-* refactor: version increase
-
----------
-
-Co-authored-by: martynasumb &lt;125246534+martynasumb@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#67a8885</div>
-                                        <div class="message">Feat/add edits amplitude events (#135)
-
-* Add site edit amplitude events.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ca527ff</div>
-                                        <div class="message">Feat/add edits amplitude events (#132)
-
-* Add site edit amplitude events. (#127)
-
-* WPCLI check store onboarding complete (#128)
-
-* WPCLI check store onboarding complete
-
-* Herlper file reset
-
-* changed hostinger onboarding store confistional
-
-* Cli new line
-
-* Updated onboardingStatus logic
-
-* json encoded WP CLI output
-
-* change status function
-
-* implement interface for CLICommands
-
-* remove new CLI bootstrap reviewing alternatives
-
-* update instructions
-
-* fix: merge conflicts with staging
-
-* fix: newline at end of CLICommand interface
-
-* refactor: removed unused `'use' statements
-
-All dependencies currently loaded already with Hostinger Tools as the base.
-
-* fix: EasyOnboarding\Cli call
-
-https://github.com/hostinger/hostinger-wordpress-plugin/blob/main/includes/Bootstrap.php#L38
-
----------
-
-Co-authored-by: Leo Gopal &lt;gopala.harripersad@hostinger.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Created new
-                      branch
-                                        <span class="code">fix/resolve-canary-conflicts</span>
-                                        in
-                                        <span class="repo">hostinger/hostinger-easy-onboarding</span>
                                     </div>
                                 </div>
                             </section>
@@ -1315,7 +1825,7 @@ Co-authored-by: Leo Gopal &lt;gopala.harripersad@hostinger.com&gt;</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 308k out of 214m repositories</span>
+                                    <span class="gh">ranked 308k out of 211m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 128 stars</div>
                             </div>
@@ -1361,7 +1871,7 @@ Co-authored-by: Leo Gopal &lt;gopala.harripersad@hostinger.com&gt;</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 979k out of 214m repositories</span>
+                                    <span class="gh">ranked 979k out of 211m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 12 times</div>
                             </div>
@@ -1656,7 +2166,7 @@ Co-authored-by: Leo Gopal &lt;gopala.harripersad@hostinger.com&gt;</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 19 Oct 2024, 05:05:04 (timezone Africa/Johannesburg) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 19 Oct 2024, 06:01:22 (timezone Africa/Johannesburg) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
