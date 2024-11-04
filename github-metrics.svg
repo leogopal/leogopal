@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -104,7 +104,7 @@ I write code and poetry, sometimes they are the same.</div>
                                 <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                 <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                             </svg>
-                            54 Issues opened
+                            55 Issues opened
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -131,7 +131,7 @@ I write code and poetry, sometimes they are the same.</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                             </svg>
-                            Following 264 users
+                            Following 265 users
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -675,10 +675,11 @@ I write code and poetry, sometimes they are the same.</div>
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                         <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                     </svg>
-                    264 followed
+                    265 followed
                 </h2>
                 <div class="row">
                     <section class="people">
+                        <img class="avatar" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAIAAAD9b0jDAAAACXBIWXMAAAsTAAALEwEAmpwYAAAB+UlEQVR4nGOQ9TpCdcQwaqgsHcJUM/h4dseN+Pqr8t44tcl7H0mov5rdeUMj+BhhQzWCj9178u0/GOw49kbJ7yimHiW/ozuPvYGoufvkm0bQMQKGZrVfh6iGm6voi2Kuou/RHTATISCr4zoBQ5MaryJr+P///64Tb5X9oeYq+x/dfeItmoKkxqsEDFXwOXLk/Hs0bYu2PINIbT+K4sb///8fPv9ewYeIiFILPHb80ge4tlfvftqlnFHwObLx4Cs0E49f+qAWSEREyYKRetCxs9c/QUx0TD8r731k3b6XaCaevf5JHSOKZPFnU52w49uPvXFIA5m4ctcLNBPP3fikE3aczLwv531k1W50E89e/6QZjNNEWfyGynkfWbr9OZqJ529+0grFZ6IsHkPlfbC68aNWyHGdsONLtj0nx/vLd6C78cqdz9qhx7VDj1+69fn///9nrn9Uxxb1srgMnbvhKbqJdz/rhZ/QCjl+4SYoVUDAsYvviU1S01Y/RjPx5oMveuEnZL2OTFz+kJzEbxJz8u9fFG13Hn01iTkFkVX2P7rnJHo2TWwglE2tk06juPHhV8Ook8gKlPzQC5TMNkIFiqzXke0wPbcffTWKRjERbu7O47Ci7zERRZ8suOAAFcAdN3DlQkQh3XFDA1suYMCfjMlDDKOGylI7TAH2Dq6Sz7kdJQAAAABJRU5ErkJggg==" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGwAAAQUBAQAAAAAAAAAAAAAAAAECBQYHAwT/xAAoEAACAQQBAgQHAAAAAAAAAAABAgMABAURMQYSBxMhQRUzQ1FicYH/xAAYAQADAQEAAAAAAAAAAAAAAAADBAcAAf/EAB0RAAICAwADAAAAAAAAAAAAAAIDAAEEERIxQYH/2gAMAwEAAhEDEQA/APFxTo1Z5ESNS7sdBQNkmm1rXh30csNnJfzTQfF3iJt0Zg3kbHoxA9/X+VR83NDDX0XyS7Bwjy2cD9mVXMD29xJDKAJEPawB3ojkVyqU6ixqYnKSWi3qXcqfNdAdBvts8moumVMo10de4s1VgdhfqFWHD5w4PC3KY9u3IXp7WlH0Yx7D8id/oAVXjSrXHoF9cH4mU8k32PmJydmiiija1A73P//Z" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAIAAAD9b0jDAAAACXBIWXMAAAsTAAALEwEAmpwYAAAC6ElEQVR4nGNgGAW4ATc3q4+/ekOr04z5/jPnBzR3ugSFagsIcDCQB6SkeSfN8Hn9perr/wY09O5HzbylQSqqwqSZGBGj9+JjJaZxaEbnFFgQa2JxufWX//UQnZ/+1EXH6+89mozL6J5JnoRNDIvSgZv49X/D2i1RDAwMHBws3RM8rtzNQ5aCo4JSK3wmSkjyPPtQgaxh4fJgZAVS0rwh4dpTZ/t9/osw/f3PGk0tUZyG9k3xQnPF62/VBkaSmCrTskyRzV22Nhy7iRwcLC8+oUTO3qPJT9+XL18XzsfHjqk+O98CHhoff9eJS/BgMdTdSxXZxJMXM7m4WA2MJGcvDFBWEcLqjqIyRJTGJxtiUVFVbw838cOv2g+/aoPCtCEBLS3DhyvEiitsIFomzfDBIj15pg9EeuveODkFgZOXMj/+qg2P0mXACwSFOCG6Vm2MxGqo79f/DV/+1/dN8WJgYBAR5Tp5KfPTn7q4RGz+wgi01ZuwGVrb7AhJmF//NzS1O0PMPX4+4/OfumBwOGACJibGkxczIYZOne2LRYVPgPrX/w1CQpzzlgTdeFjg7KbMwMAgIMhx+U7e8QsZWA2NTTCAR0NKhgkWFTw8bG++VYuIcjEzM3b2u6dlmbKxMzMwMKzeFHn1Xj7EAlsHBQjS0RVjY2e+8bAQYuLnv3Uycjgic+Z8/w3bo9k5WJhZGG0dFNg5WJANTUw1grvry//6O0+L4Nz126JxhrqCkuCbb9Vgc5kZGUFBhmxoQgrCUGT06U+doTGWXIcAGTlmX/7Xb9gezQF2JgMDw8oNEXeeFjMyMggJc566BI0WZFTX7MhAEHT2uUN8BPE+JHl3T/CApIfTl1HMnbs4COIhwiCvyPL9jxqIe5mZGecuCYKbKyrGfRLs3k9/6upbnIg1EQI0tESXrQ3btCuWm4eVmZlxHtjcLrC5QsKcU2f7GplIMZAHJCR5NMBlJTMzY9cEj+lz/ZVwFC6jgAEGAAPABbOhOoOYAAAAAElFTkSuQmCC" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAABgcABQEDCP/EAC0QAAIBAwMBBgUFAAAAAAAAAAEDAgQFEQAGIRIHEzFRcaEIIjJBgRZhcpGx/8QAFQEBAQAAAAAAAAAAAAAAAAAABAP/xAAcEQACAgMBAQAAAAAAAAAAAAAAAQIRAwQSISL/2gAMAwEAAhEDEQA/ALXe9tjuLtuNJVc0lHRrZKPnjno/uejtl1tqbfPFTThCRiXdkTEP2wNDG9rpRWvtXhTXGPdTuFPFaHc4Z14HRn7EFYx/I/nFyue3tuQeh/JeCStY65k+I49dCyt9Mfrpcm3Zz6FHaFT1lmEJ0d0p2Jf3UcANh88CR5469NzGkfa90Kq9zbTVa490t1cxTYmOCcKmT/o08InjS9ZtxCbSSn4c9fFHcKU1VqSvJuCcziV/WMkY99S6C7mhVWC2h1TV0aoMYuUIMUwZJPPr7aCaofqGLL/diai4VDZ5MvpgIyMQIj7DGjfYlbUXKlfR1jZMUiQXGRPzdPPBOoZVbsrglz4V+z6d9L2i2y73yRK6ZLGKQkAhbJgr5Pn0wHqfd7o3NaWLBnVhUvAwnHBGh63W6kUg0UUxKXxIZ1cyP50GLPVAdYEiOMy8dIhcFRDL9Ss//9k=" width="28" height="28" alt="" />
@@ -702,7 +703,6 @@ I write code and poetry, sometimes they are the same.</div>
                         <img class="avatar" src="data:image/png;base64,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" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd+UAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAoElEQVR4nO2WIQ7DQAwE9ylVFNBnBBQEBBw+nH8YFgb2A/cJm997TsoHXJ1UqQElC5oQWxq6K63slYErZk/Dc0+DEsximMSgBNvRsIs4wSqGLAYnqGHoEanE0licRTqvaeYuQnAXwyiGlWD5tndpE0rLBKMrbq7IBI+joaI0J1g/Ik5Qw9AjUo+l0TiLcl7TbCitEiy9G7sIwevfD/3PeQMuOi/rjbavUAAAAABJRU5ErkJggg==" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd+UAAAACXBIWXMAAA7EAAAOxAGVKw4bAAACvklEQVR4nM2WT0gyQRjG27IsNIKMwijJQ0QRVKeoSyRGVkREhw6SpzoYeiiPHTsU0iHo1i3CCLqtKOIhgiALUpEgsEOHhJQig8A/FNvzMQNK02jmfn3xPfDCsvvu+9udeeeZqRAEAb8ZFf89sLKyEg0NDTTI9T8BdnZ2Yn19HRcXF0ilUsgpk8ng8vISGxsb6Onp+XugVqvF/v4+JElCKb2/v+Po6Ag6nU4e0GAw4OHhAeXq+fkZU1NT5QFNJhOy2Szk6u3tDXNzc98DdnV14eXlJf+iy+XC3d1dScj9/T0ODg7ovBKl02n09/d/DSRdd3p6mi9yfn5O71dXV2NxcRFerxdOpxOrq6tYWVnB5uYmPB4P7HY7ampqaK7f78+/Hw6HoVAoigOnp6eZrxZFsey2d7lcTA2z2VwcSL72o0jLlws8Pj5mapARKwhUqVRcoxSb+K9ibGyMqUGWVFNTEw8cGhrimkCOkwiCgJubG6bW+Pg4D5yfn2eSTk5OZMEEQYDb7WZqLS0t8UCLxcIknZ2dyQb6fD6mls1m44EzMzNM0uPjo+whvb29ZWotLCzwwO7ubnzWyMhI2bCBgQGuzuDgIA+sqqpCIpFgEoPBINRq9bdhtbW1jHEQEddSKpWF1+HOzg5Nenp6wvX1Nb0OhUL0T0sN7/DwMAKBAPd3e3t7hddhbt97fX1FPB6nrUysK6dYLIa1tTUO5HA4inqtJEmcn3LmvbW1RZOTySRN/ug+k5OTHHB0dBTFtLu7y+VzwLq6OrqzE21vb6OxsZG6h9FoZOYiF3q9viDs6uoK9fX1pYEkmpubEYlE8gZutVqxvLyMlpYWLrejo4ODRaNRtLW1lbfjk0PS4eEhU6ivr68kUBRFaDQa+YeoiYkJ6jpEvb293PP29vb8Epqdnf25Y2Jra6usZ4Jc4E/FrwP/ABfjrNkrfkGjAAAAAElFTkSuQmCC" width="28" height="28" alt="" />
-                        <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGwAAAQQDAAAAAAAAAAAAAAAABwABBQYDBAj/xAAnEAABAwMDAwQDAAAAAAAAAAABAgMRAAQFBiFBEjFhExRRcYHB0f/EABgBAAMBAQAAAAAAAAAAAAAAAAADBQIE/8QAHxEAAgIBBAMAAAAAAAAAAAAAAQIDBAAFISJREjFh/9oADAMBAAIRAxEAPwDqimUQO5FQmp88zhLIuEIcuDHQ0VQT5+qF2f1DeZm69Ra1NMgAJZSowPPmpl3VIqvH23WUaemS2uXpe8NYiOIpdR4FDjQ+duLWydOQL7lqFhDSzvB3kSeO1ENh9t5pLjKwpChII5p9S7HZXyGx6zns1WrSFDv9yt5vR1nl8gu8ffuUuLAHSlQhMCNpFYUaGtUpARkciI+HR/Kt4NPQaMDMXK7nAXJ1UIG2GV5vTTaLZDHv75SEzupwEmfxUtjrJuxs27dsqUhEwVd9zP7rbpVta0UZ8wPmKaV3HI5//9k=" width="28" height="28" alt="" />
                     </section>
                 </div>
             </section>
@@ -880,7 +880,7 @@ I write code and poetry, sometimes they are the same.</div>
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 60.1k out of 148m users</span>
+                                    <span class="gh">ranked 60.1k out of 140m users</span>
                                 </div>
                                 <div class="text">Published 190 public repositories</div>
                             </div>
@@ -998,7 +998,7 @@ I write code and poetry, sometimes they are the same.</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="33.06666666666667 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="33.583333333333336 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g fill="none" fill-rule="evenodd">
@@ -1016,7 +1016,7 @@ I write code and poetry, sometimes they are the same.</div>
                                     <span class="prefix">Great</span>
                                     follower
                                 </div>
-                                <div class="text">Following 264 users</div>
+                                <div class="text">Following 265 users</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -1107,7 +1107,7 @@ I write code and poetry, sometimes they are the same.</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 141k out of 148m users</span>
+                                    <span class="gh">ranked 141k out of 140m users</span>
                                 </div>
                                 <div class="text">Followed by 88 users</div>
                             </div>
@@ -1145,7 +1145,7 @@ I write code and poetry, sometimes they are the same.</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 308k out of 175m repositories</span>
+                                    <span class="gh">ranked 308k out of 219m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 129 stars</div>
                             </div>
@@ -1440,7 +1440,7 @@ I write code and poetry, sometimes they are the same.</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 4 Nov 2024, 21:01:17 (timezone Africa/Johannesburg) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 4 Nov 2024, 22:01:23 (timezone Africa/Johannesburg) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
