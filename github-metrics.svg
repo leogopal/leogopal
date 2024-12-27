@@ -883,7 +883,7 @@ I write code and poetry, sometimes they are the same.</div>
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 54.7k out of 152m users</span>
+                                    <span class="gh">ranked 54.7k out of 147m users</span>
                                 </div>
                                 <div class="text">Published 202 public repositories</div>
                             </div>
@@ -1110,7 +1110,7 @@ I write code and poetry, sometimes they are the same.</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 136k out of 152m users</span>
+                                    <span class="gh">ranked 137k out of 147m users</span>
                                 </div>
                                 <div class="text">Followed by 93 users</div>
                             </div>
@@ -1148,7 +1148,7 @@ I write code and poetry, sometimes they are the same.</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 314k out of 228m repositories</span>
+                                    <span class="gh">ranked 314k out of 227m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 129 stars</div>
                             </div>
@@ -1443,7 +1443,7 @@ I write code and poetry, sometimes they are the same.</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 28 Dec 2024, 00:01:16 (timezone Africa/Johannesburg) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 28 Dec 2024, 01:01:15 (timezone Africa/Johannesburg) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
